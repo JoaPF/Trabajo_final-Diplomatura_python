@@ -1,0 +1,6 @@
+Se ha iniciado sesion en el dia:
+    2022-08-19 17:13:14.073457
+Se ha agregado un contacto a la base de datos en el dia:
+    2022-08-19 17:14:20.512416
+Se ha cerrado sesion en el dia:
+    2022-08-19 17:14:29.627092
